@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Min Zhang"
-  avatar           : "images/minPhoto.png"
+  avatar           : "images/MinPhoto.png"
   bio              : "Virginia Tech"
   location         : "VA, USA"
   employer         :
