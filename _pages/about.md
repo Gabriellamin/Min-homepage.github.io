@@ -30,7 +30,7 @@ My research interests are NLP, LLMs, AI for social good, and social data mining.
 - **Min Zhang**, Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, [Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization], **ICASSP 2024**
 
 # 🎖 Honors and Awards
-- *2017* China National Scholarship
+- *2017* China National Scholarship (Undergraduate) (Top 1%)
 
 # 💻 Work Experience
 - *2021.07 - 2022.07*, Tencent, China. -Full Time
