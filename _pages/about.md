@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+<p>
 I am a Ph.D. Student in Computer Science at Virginia Tech (VT) starting in Fall 2023, advised by Prof. <a href="ttps://people.cs.vt.edu/ctlu/"> Chang-Tien Lu</a>. Prior to VT, I obtained my B.A. degree from Beijing Jiaotong University (BJTU) and M.Sc. degree from University of Chinese Academy of Sciences(UCAS). I have spent one year working at Tencent as a machine learning engineer.
+</p>
 
 My research interests are NLP, LLMs, AI for social good, and social data mining. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
