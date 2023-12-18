@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. Student in Computer Science at Virginia Tech (VT) starting in Fall 2023, advised by Prof. Chang-Tien Lu. Prior to VT, I obtained my B.A. degree from Beijing Jiaotong University (BJTU) and M.Sc. degree from University of Chinese Academy of Sciences(UCAS). I have spent one year working at Tencent as a machine learning engineer.
+I am a Ph.D. Student in Computer Science at Virginia Tech (VT) starting in Fall 2023, advised by Prof. <a href="ttps://people.cs.vt.edu/ctlu/"> Chang-Tien Lu</a>. Prior to VT, I obtained my B.A. degree from Beijing Jiaotong University (BJTU) and M.Sc. degree from University of Chinese Academy of Sciences(UCAS). I have spent one year working at Tencent as a machine learning engineer.
 
 My research interests are NLP, LLMs, AI for social good, and social data mining. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
@@ -26,8 +26,7 @@ My research interests are NLP, LLMs, AI for social good, and social data mining.
 
 # 📝 Selected Publications
 
-- [Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization], **Min Zhang**,
-Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, **ICASSP 2024**
+- **Min Zhang**, Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, [Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization], **ICASSP 2024**
 
 # 🎖 Honors and Awards
 - *2017* China National Scholarship
