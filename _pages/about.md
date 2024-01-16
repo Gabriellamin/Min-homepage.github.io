@@ -23,10 +23,11 @@ I am a Ph.D. Student in Computer Science at Virginia Tech (VT) starting in Fall 
 My research interests are NLP, LLMs, AI for social good, and social data mining. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
 # 🔥 News
-- *2023.12*: Our paper about compositional generalization in LLMs is accepted to ICASSP 2024. 
+- *Jan 2024*: Our paper about cost-efficient LLM cascades with mixture of thoughts is accepted to ICLR 2024.
+- *Dec 2023*: Our paper about compositional generalization in LLMs is accepted to ICASSP 2024. 
 
 # 📝 Selected Publications
-
+- Murong Yue, Jie Zhao, **Min Zhang**, Liang Du, Ziyu Yao, [Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning], **ICLR 2024**
 - **Min Zhang**, Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, [Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization], **ICASSP 2024**
 
 # 🎖 Honors and Awards
