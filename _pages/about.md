@@ -23,7 +23,7 @@ I am a Ph.D. Student in Computer Science at Virginia Tech (VT) starting in Fall 
 My research interests are NLP, LLMs, AI for social good, and social data mining. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
 # 🔥 News
-- *Jan 2024*: Our paper about cost-efficient LLM cascades with mixture of thoughts is accepted to ICLR 2024.
+- *Jan 2024*: Our paper about LLM cascades for cost-efficient reasoning is accepted to ICLR 2024.
 - *Dec 2023*: Our paper about compositional generalization in LLMs is accepted to ICASSP 2024. 
 
 # 📝 Selected Publications
