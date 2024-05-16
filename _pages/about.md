@@ -23,13 +23,13 @@ I am a Ph.D. Student in Computer Science at Virginia Tech (VT) starting in Fall 
 My research interests are NLP, LLMs, AI for social good, and HCI. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
 # 🔥 News
-- *Apr 2024*: One paper about fair financial analysis is accepted by NAACL 2024 industry track.
-- *Feb 2024*: A preprint of a paper on the oversensitivity and calibration of LLMs has been released.
+- *May 2024*: One paper about LLM's fairness and uncertainty is accepted to ACL 2024 main conference (first author).
+- *Apr 2024*: One paper about fair financial analysis is accepted to NAACL 2024 industry track.
 - *Jan 2024*: One paper about LLM cascades for cost-efficient reasoning is accepted to ICLR 2024.
-- *Dec 2023*: One paper about compositional generalization in LLMs is accepted to ICASSP 2024. 
+- *Dec 2023*: One paper about compositional generalization in LLMs is accepted to ICASSP 2024 (first author). 
 
 # 📝 Selected Publications
-- **Min Zhang**, Jianfeng He, Taoran Ji, Chang-Tien Lu, [Don't Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection], **PrePrint**
+- **Min Zhang**, Jianfeng He, Taoran Ji, Chang-Tien Lu, [Don't Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection], **ACL 2024 main**
 - Murong Yue, Jie Zhao, **Min Zhang**, Liang Du, Ziyu Yao, [Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning], **ICLR 2024**
 - **Min Zhang**, Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, [Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization], **ICASSP 2024**
 
