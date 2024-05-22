@@ -20,7 +20,7 @@ redirect_from:
 I am a Ph.D. Student in Computer Science at Virginia Tech (VT) starting in Fall 2023, advised by Prof. <a href="https://people.cs.vt.edu/ctlu/"> Chang-Tien Lu</a>. Prior to VT, I obtained my bachelor's degree from Beijing Jiaotong University (BJTU) and master's degree from University of Chinese Academy of Sciences(UCAS). I spent one year working at Tencent as a machine learning engineer.
 </p>
 
-My research interests are NLP, LLMs, especially focusing on uncertainty estimation and AI for social good. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
+My research interests are NLP, LLMs, especially focusing on uncertainty estimation and complex reasoning. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
 # 🔥 News
 - *May 2024*: One paper about LLM's fairness and uncertainty is accepted to ACL 2024 main conference (first author).
