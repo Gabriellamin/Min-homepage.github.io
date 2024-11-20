@@ -30,8 +30,8 @@ My research interests are NLP, LLMs, especially focusing on uncertainty estimati
 
 # 📝 Selected Publications
 - **Min Zhang**, Jianfeng He, Taoran Ji, Chang-Tien Lu, <a href="https://aclanthology.org/2024.acl-long.652.pdf"> Don't Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection </a>, **ACL 2024 main**
-- Murong Yue, Jie Zhao, **Min Zhang**, Liang Du, Ziyu Yao, [Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning], **ICLR 2024**
-- **Min Zhang**, Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, [Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization], **ICASSP 2024**
+- Murong Yue, Jie Zhao, **Min Zhang**, Liang Du, Ziyu Yao, <a href="https://arxiv.org/pdf/2310.03094"> Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning </a>, **ICLR 2024**
+- **Min Zhang**, Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, <a href="https://arxiv.org/pdf/2312.07763"> Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization </a>, **ICASSP 2024**
 
 # 🎖 Honors and Awards
 - *2017* China National Scholarship (Undergraduate) (Top 1%)
