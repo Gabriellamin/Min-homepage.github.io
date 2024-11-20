@@ -29,7 +29,7 @@ My research interests are NLP, LLMs, especially focusing on uncertainty estimati
 - *Dec 2023*: One paper about compositional generalization in LLMs is accepted to ICASSP 2024 (first author). 
 
 # 📝 Selected Publications
-- **Min Zhang**, Jianfeng He, Taoran Ji, Chang-Tien Lu, [Don't Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection], **ACL 2024 main**
+- **Min Zhang**, Jianfeng He, Taoran Ji, Chang-Tien Lu, <a href="https://aclanthology.org/2024.acl-long.652.pdf"> Don't Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection </a>, **ACL 2024 main**
 - Murong Yue, Jie Zhao, **Min Zhang**, Liang Du, Ziyu Yao, [Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning], **ICLR 2024**
 - **Min Zhang**, Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, [Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization], **ICASSP 2024**
 
