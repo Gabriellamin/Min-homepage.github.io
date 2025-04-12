@@ -24,8 +24,7 @@ My research interests are NLP, LLMs, especially focusing on LLM trustworthiness 
 
 # 🔥 News
 - *Apr 2025*: One paper about LLM's numerical reasoning with local data protection has been released (first author).
-- *Mar 2025*: Serve as reviewer for ICML 2025
-- *Jun 2024*: Serve as reviewer for Neurips 2024
+- *May 2024*: Start an Applied Scientist summer internship at Amazon in California.
 - *May 2024*: One paper about LLM's fairness and uncertainty is accepted to ACL 2024 main conference (first author).
 - *Apr 2024*: One paper about fair financial analysis is accepted to NAACL 2024 industry track.
 - *Jan 2024*: One paper about LLM cascades for cost-efficient reasoning is accepted to ICLR 2024.
@@ -36,6 +35,11 @@ My research interests are NLP, LLMs, especially focusing on LLM trustworthiness 
 - **Min Zhang**, Jianfeng He, Taoran Ji, Chang-Tien Lu, <a href="https://aclanthology.org/2024.acl-long.652.pdf"> Don't Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection </a>, **ACL 2024 main**
 - Murong Yue, Jie Zhao, **Min Zhang**, Liang Du, Ziyu Yao, <a href="https://arxiv.org/pdf/2310.03094"> Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning </a>, **ICLR 2024**
 - **Min Zhang**, Jianfeng He, Shuo Lei, Murong Yue, Linhan Wang, Chang-Tien Lu, <a href="https://arxiv.org/pdf/2312.07763"> Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization </a>, **ICASSP 2024**
+
+# 🌐 Services
+- *Mar 2025*: Serve as reviewer for ICML 2025
+- *Jun 2024*: Serve as reviewer for Neurips 2024
+
 
 # 🎖 Honors and Awards
 - *2021* Tencent Good+ Employee
