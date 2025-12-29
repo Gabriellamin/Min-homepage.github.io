@@ -23,6 +23,7 @@ I am a Ph.D. Student in Computer Science at Virginia Tech (VT) starting in Fall 
 My research interests are NLP, LLMs, especially focusing on LLM trustworthiness and complex reasoning. I am open to all kinds of collaboration, please drop me an email if you are interested in my research.
 
 # 🔥 News
+- *Dec 2025*: Our <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525011194"> Survey </a> on Uncertainty Estimation has been accepted to Information Fusion.
 - *Nov 2025*: One paper about LLM's numerical reasoning with local data protection is accepted to AAAI 2026 (first author).
 - *May 2024*: Start an Applied Scientist summer internship at Amazon in California.
 - *May 2024*: One paper about LLM's fairness and uncertainty is accepted to ACL 2024 main conference (first author).
